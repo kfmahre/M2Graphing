@@ -1,7 +1,7 @@
 # M2Graphing
 
 
-![Graph](/images/graphpic1.png)
+![Graph](graphpic1.png)
 
 I've made some graphs for my Competing Through Business Analytics class. Two of them display data on the opioid crisis and overdose rates in Virginia.
 
